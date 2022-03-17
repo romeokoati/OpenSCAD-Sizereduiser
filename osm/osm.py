@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """OpenSCAD Minimizer - Reduce the size of your .scad file
-<http://github.com/l0b0/OpenSCAD-Minimizer>
+<http://github.com/romeokoati/OpenSCAD-Sizereduiser>
 
 Default syntax:
 
