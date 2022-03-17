@@ -11,7 +11,7 @@ Default syntax:
 
 __author__ = 'KOATI NEMALEU ROMEO'
 __email__ = 'romeokoati@gmail.com'
-__copyright__ = 'Copyright (C) 2010 KOATI NEMALEU ROMEO
+__copyright__ = 'Copyright (C) 2022 KOATI NEMALEU ROMEO
 __license__ = 'GPLv3'
 
 from doctest import testmod
